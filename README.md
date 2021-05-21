@@ -1,6 +1,7 @@
 # scrapy-game-information
 A project based on scrapy which crawl game's information from store.steampowered.com
-
+![image](https://github.com/gonggqing/scrapy-game-information/blob/main/game%20reviews.png)
+A total review of this project
 ## Scrapy
 I created two spiders, one nmaed [steamtopsell.py](https://github.com/gonggqing/scrapy-game-information/blob/main/steamtopsell.py) helps me to get all the game urls from the website, it crawled almost 4000 urls, saved as a [.txt file](https://github.com/gonggqing/scrapy-game-information/blob/main/games_url.txt). The other named [steam_game.py](https://github.com/gonggqing/scrapy-game-information/blob/main/steam_game.py), it helps me to get all the information that I want from a specific game url, which contains game name, game type, developer, evaluation and so on. You can create your spider use this command in shell (I'm using Mac Bigsur, Apple silicon M1)
 ```
