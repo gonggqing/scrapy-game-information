@@ -20,7 +20,7 @@ $ scrapy crawl spider_name [, -o output.json]
 ```
 
 ## MySQL & Tableau
-After I got my data from the website, I stored my data in MySQL database, and create a visualization dashboard in Tableau.
+After I got my data from the website, I stored my data in MySQL database, and create a visualization dashboard via Tableau.
 ![image](https://github.com/gonggqing/scrapy-game-information/blob/main/nysql_games_info.png)
 Spreadsheet in MySQL
 
