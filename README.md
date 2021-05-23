@@ -1,5 +1,5 @@
 # scrapy-game-information
-A project based on scrapy which crawl game's information from store.steampowered.com
+A project based on scrapy which crawls game's information from store.steampowered.com
 ![image](https://github.com/gonggqing/scrapy-game-information/blob/main/game%20reviews.png)
 A total visualization of this project, only select several game names to show
 ## Scrapy
